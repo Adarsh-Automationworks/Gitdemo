@@ -6,4 +6,8 @@ public class Testbaseclass {
 	{
 		System.out.println("Test class");
 	}
+	public void  test2()
+	{
+		System.out.println("second class");
+	}
 }
