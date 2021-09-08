@@ -10,4 +10,8 @@ public class Testbaseclass {
 	{
 		System.out.println("second class");
 	}
+	public void test3()
+	{
+		System.out.println("Third class");
+	}
 }
